@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+width: 100%;
+height: 100%;
+}
+#boxx{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(252, 199, 24);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 67, 37);
+}
+#box2{
+    width: 130px;
+    height: 110px;
+    background-color: rgb(3, 0, 122);
+}
+#box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(17, 10, 5);
+}
+#box{
+    width: 300px;
+    height: 300px;background-color: aqua;
+}
+#chota{
+    position: absolute;
+    position: relative;
+    left: 40%;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#car1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+#car2{
+    position: absolute;
+    width: 110px;
+    height: 90px;
+    background-color: rgb(66, 199, 25);
+}
+#car3{
+    width: 130px;
+    height: 110px;
+    background-color: rgb(34, 10, 247);
+}
+#chacha{
+    height: 40%;
+    width: 20%;
+    background-color: black;
+}
+#chachi{
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#taya{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 20px;
+}
+#tayi{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 20px 30px 40px 12px;
+}
+#phopho{
+    width: 20%;
+    height: 40%;
+    padding: 20px;
+    margin: 40px;
+    background-color: aquamarine; 
+}
+#phopha{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1697665666330-7acf230fa830?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+    background-size: cover;
+    background-position: bottom;
+}
